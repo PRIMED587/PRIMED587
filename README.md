@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Distintos Proyectos e integración de herramientas de desarrollo](https://github.com/PRIMED587/WEBAPP-GESTION-DE-EVENTOS-PSC)
 
-- 📫 Puedes contactar conmigo por **priveram87@gmail.com**
+- 📫 Puedes contactar conmigo a **priveram87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
