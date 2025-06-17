@@ -1,3 +1,5 @@
+![1_GNFNf_V7rj_C2YUCeZNzsw](https://github.com/user-attachments/assets/c447f00b-6dd9-40ae-bc3b-25f27dff3ba4)
+
 <h1 align="center">Hola 👋, soy PASCUAL RIVERA MEDINA</h1>
 <h3 align="center">Un apasionado del Desarrollo de Software</h3>
 
