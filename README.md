@@ -1,7 +1,7 @@
 ![full stack banner](https://github.com/user-attachments/assets/e2a43b17-a4c4-407c-a959-372c5a8a1c15)
 
 
-<h1 align="center">Hola 👋, soy PASCUAL RIVERA MEDINA</h1>
+<h1 align="center">Hola 👋, Bienvenidos a mi GITHUB</h1>
 <h3 align="center">Un apasionado del Desarrollo de Software</h3>
 
 - 🔭 Actualmente estoy trabajando en [Distintos Proyectos e integración de herramientas de desarrollo](https://github.com/PRIMED587/WEBAPP-GESTION-DE-EVENTOS-PSC)
