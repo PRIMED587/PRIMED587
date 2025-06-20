@@ -8,7 +8,6 @@
 - 📫 Puedes contactar conmigo a **priveram87@gmail.com**
 - 📫 Mi Website: https://pascualriveram87.vercel.app/
 
-Website: https://pascualriveram87.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
