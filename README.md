@@ -1,5 +1,5 @@
-![Banner Para LinkedIn Desarrollador De Software Moderno Negro (3)](https://github.com/user-attachments/assets/fe25f77e-d9f8-4087-b7b2-d02163e73325)
 
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro (3)](https://github.com/user-attachments/assets/474b1d34-0b04-474e-ba37-66c81e9877e1)
 
 
 <h1 align="center">Hola 👋, Bienvenidos a mi GITHUB</h1>
