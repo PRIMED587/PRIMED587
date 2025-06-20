@@ -1,5 +1,8 @@
 
-https://github.com/user-attachments/assets/e31d1612-b5a4-4e62-9703-c7f5b20bda95
+
+
+https://github.com/user-attachments/assets/b04d1256-346e-4aea-8991-1e3928968ea2
+
 
 <h3 align="center">SOY UN APASIONADO AL DESARROLLO DE SOFTWARE</h3>
 
