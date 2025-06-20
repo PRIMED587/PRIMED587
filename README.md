@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________________
 - <h1>🖥️ Actualmente estoy trabajando en distintos proyectos y practicas </h1>
-- <h1>📧 Puedes contactar conmigo a **priveram87@gmail.com** </h1>
+- <h1>📧 Contacto a mi e-mail: priveram87@gmail.com </h1>
 - <h1>🌎 Mi Website: https://pascualriveram87.vercel.app/ </h1>
 
 
