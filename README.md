@@ -7,9 +7,9 @@ ________________________________________________________________________________
 <h3 align="center">SOY UN APASIONADO AL DESARROLLO DE SOFTWARE Y ESTE ES MI GITHUB DONDE PUEDES ENCONTRAR TODO MI TRABAJO, ESPERO QUE SEA DE TU AGRADO Y UTILIDAD 🤠 </h3>
 
 ___________________________________________________________________________________________________________________________________________________________________________
-- <h1>🖥️</h1> Actualmente estoy trabajando en [Distintos Proyectos e integración de herramientas de desarrollo](https://github.com/PRIMED587/WEBAPP-GESTION-DE-EVENTOS-PSC)
-- <h1>📧</h1> Puedes contactar conmigo a **priveram87@gmail.com**
-- <h1>🌎</h1> Mi Website: https://pascualriveram87.vercel.app/
+- <h1>🖥️ Actualmente estoy trabajando en [Distintos Proyectos e integración de herramientas de desarrollo](https://github.com/PRIMED587/WEBAPP-GESTION-DE-EVENTOS-PSC) </h1>
+- <h1>📧 Puedes contactar conmigo a **priveram87@gmail.com** </h1>
+- <h1>🌎 Mi Website: https://pascualriveram87.vercel.app/ </h1>
 
 
 <h3 align="left">Connect with me:</h3>
