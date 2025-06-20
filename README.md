@@ -1,5 +1,9 @@
 
-![Banner Para LinkedIn Desarrollador De Software Moderno Negro (4)](https://github.com/user-attachments/assets/58e0f439-da1c-4689-8e28-04f51bfe064a)
+
+
+https://github.com/user-attachments/assets/d1127333-6a67-4597-bc84-45baa75561d0
+
+
 
 <h3 align="center">SOY UN APASIONADO AL DESARROLLO DE SOFTWARE</h3>
 
