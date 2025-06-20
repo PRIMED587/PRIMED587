@@ -1,9 +1,6 @@
 
 ![Banner Para LinkedIn Desarrollador De Software Moderno Negro (4)](https://github.com/user-attachments/assets/58e0f439-da1c-4689-8e28-04f51bfe064a)
 
-
-
-<h1 align="center">Hola 👋, Bienvenidos a mi GITHUB</h1>
 <h3 align="center">Soy un apasionado del Desarrollo de Software</h3>
 
 - 🔭 Actualmente estoy trabajando en [Distintos Proyectos e integración de herramientas de desarrollo](https://github.com/PRIMED587/WEBAPP-GESTION-DE-EVENTOS-PSC)
