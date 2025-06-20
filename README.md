@@ -1,4 +1,5 @@
-![full stack banner](https://github.com/user-attachments/assets/e2a43b17-a4c4-407c-a959-372c5a8a1c15)
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro (3)](https://github.com/user-attachments/assets/fe25f77e-d9f8-4087-b7b2-d02163e73325)
+
 
 
 <h1 align="center">Hola 👋, Bienvenidos a mi GITHUB</h1>
