@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________
 - 🖥️ Actualmente estoy trabajando en [Distintos Proyectos e integración de herramientas de desarrollo](https://github.com/PRIMED587/WEBAPP-GESTION-DE-EVENTOS-PSC)
 
-- 💬 Puedes contactar conmigo a **priveram87@gmail.com**
+- <h1>📧</h1> Puedes contactar conmigo a **priveram87@gmail.com**
 - 🌎 Mi Website: https://pascualriveram87.vercel.app/
 
 
