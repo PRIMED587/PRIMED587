@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/b04d1256-346e-4aea-8991-1e3928968ea2
 
 ___________________________________________________________________________________________________________________________________________________________________________
 <h3 align="center">SOY UN APASIONADO AL DESARROLLO DE SOFTWARE Y ESTE ES MI GITHUB DONDE PUEDES ENCONTRAR TODO MI TRABAJO, ESPERO QUE SEA DE TU AGRADO Y UTILIDAD 🤠 </h3>
-_____________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 
 - 🔭 Actualmente estoy trabajando en [Distintos Proyectos e integración de herramientas de desarrollo](https://github.com/PRIMED587/WEBAPP-GESTION-DE-EVENTOS-PSC)
 
